@@ -1,0 +1,18 @@
+Note Dur:8th Pos:-6 Opts:Stem=Down,Beam=First
+Note Dur:8th Pos:-9 Opts:Stem=Down,Beam=End
+Note Dur:8th Pos:-13 Opts:Stem=Down,Beam=First
+Note Dur:16th Pos:-4 Opts:Stem=Down,Beam
+Note Dur:16th Pos:-3 Opts:Stem=Down,Beam=End
+Note Dur:16th Pos:-2 Opts:Stem=Down,Beam=First
+Note Dur:16th Pos:-3 Opts:Stem=Down,Beam
+Note Dur:16th Pos:-4 Opts:Stem=Down,Beam
+Note Dur:16th Pos:-5 Opts:Stem=Down,Beam=End
+Bar
+Note Dur:8th Pos:-4 Opts:Stem=Down,Beam=First
+Note Dur:8th Pos:-9 Opts:Stem=Down,Beam=End
+Note Dur:8th Pos:-13 Opts:Stem=Down,Beam=First
+Note Dur:16th Pos:-6 Opts:Stem=Down,Beam
+Note Dur:16th Pos:-5 Opts:Stem=Down,Beam=End
+Note Dur:8th Pos:-4 Opts:Stem=Down,Beam=First
+Note Dur:8th Pos:-6 Opts:Stem=Down,Beam=End
+Bar

@@ -1,0 +1,165 @@
+!NoteWorthyComposer(2.751)
+|Editor|ActiveStaff:1|CaretIndex:1|CaretPos:0
+|SongInfo|Title:"s2_andante"|Author:""|Lyricist:""|Copyright1:"Produced using Neuratron PhotoScore - www.neuratron.com"|Copyright2:""
+|PgSetup|StaffSize:16|Zoom:4|TitlePage:Y|JustifyVertically:Y|PrintSystemSepMark:N|ExtendLastSystem:N|DurationPadding:Y|PageNumbers:0|StaffLabels:None|BarNumbers:None|StartingBar:1
+|Font|Style:StaffItalic|Typeface:"Times New Roman"|Size:10|Bold:Y|Italic:Y|CharSet:0
+|Font|Style:StaffBold|Typeface:"Times New Roman"|Size:8|Bold:Y|Italic:N|CharSet:0
+|Font|Style:StaffLyric|Typeface:"Times New Roman"|Size:7.2|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageTitleText|Typeface:"Times New Roman"|Size:24|Bold:Y|Italic:N|CharSet:0
+|Font|Style:PageText|Typeface:"Times New Roman"|Size:12|Bold:N|Italic:N|CharSet:0
+|Font|Style:PageSmallText|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User1|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User2|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User3|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User4|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User5|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|Font|Style:User6|Typeface:"Times New Roman"|Size:8|Bold:N|Italic:N|CharSet:0
+|PgMargins|Left:1.27|Top:1.27|Right:1.27|Bottom:1.27|Mirror:N
+|AddStaff|Name:"Staff"|Group:"Standard"
+|StaffProperties|EndingBar:Section Close|Visible:Y|BoundaryTop:18|BoundaryBottom:12|Lines:5|WithNextStaff:Layer|Color:Default
+|StaffProperties|Muted:N|Volume:127|StereoPan:64|Device:0|Channel:1
+|StaffInstrument|Name:"String Ensemble 1"|Patch:48|Trans:7|DynVel:10,30,45,60,75,92,108,127
+|Clef|Type:Treble
+|Key|Signature:Bb|Tonic:F
+|TimeSig|Signature:6/8
+|Tempo|Tempo:60|Pos:10
+|Tempo|Tempo:100|Pos:10
+|Chord|Dur:8th|Pos:-10,-8|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-10|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-10|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-10,-8|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-10,-7|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-8|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-10,-9|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-10|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-11,-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-9|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-11|Opts:Stem=Up,Beam=First
+|Chord|Dur:8th|Pos:-11,-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-11,-6|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-7|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-11,-8|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-9|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:16th|Pos:-10,-8|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-6|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-10,-5|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-12,-6,-3|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-6|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-12,-5|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-8|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-9,n-7|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-9,-4|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:16th|Pos:-13,-9,-4|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up,Beam
+|Chord|Dur:8th|Pos:-13,-6|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=First
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down,Beam
+|Chord|Dur:16th|Pos:-6,-3|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:-4|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-6,-5|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Up,Beam
+|Note|Dur:8th|Pos:-7|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-7,-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th|Pos:-7,-2|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:-5|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:16th|Pos:-7,-4|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down,Beam
+|Chord|Dur:16th|Pos:-7,-1|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:0|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th|Pos:-8,-2,1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down,Beam
+|Chord|Dur:16th|Pos:-8,-1|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:-4|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th|Pos:-5,-3|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-1|Opts:Stem=Down,Beam
+|Chord|Dur:16th|Pos:-5,2|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:1|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:16th|Pos:-9,-3,0|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-9,-2|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-5|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-6,-4|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-3|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-6,-2|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-13,-9,-4,0|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:2|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-13,-9,-4,1|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:0|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-10,-6,-3,-1|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-10|Opts:Stem=Up,Beam=End
+|Note|Dur:16th|Pos:-10|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-2|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-10,-8,-3|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-4|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-10,-8,-5|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-6|Opts:Stem=Up,Beam
+|Chord|Dur:32nd|Pos:-10,n-7|Opts:Stem=Up,Beam
+|Note|Dur:32nd|Pos:-6|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-8|Opts:Stem=Up,Beam=End
+|Bar
+|Chord|Dur:16th|Pos:-10,n-7|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-9|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-8|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-7|Opts:Stem=Up,Beam=End
+|Note|Dur:32nd|Pos:-6|Opts:Stem=Down,Beam=First
+|Note|Dur:32nd|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:32nd|Pos:-5|Opts:Stem=Down,Beam
+|Note|Dur:32nd|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:32nd|Pos:-4|Opts:Stem=Down,Beam
+|Note|Dur:32nd|Pos:-2|Opts:Stem=Down,Beam
+|Note|Dur:32nd|Pos:-3|Opts:Stem=Down,Beam
+|Note|Dur:32nd|Pos:-1|Opts:Stem=Down,Beam=End
+|Chord|Dur:4th|Pos:-11,-6,-2
+|Bar
+|Note|Dur:16th|Pos:-10|Opts:Stem=Up,Beam=First
+|Note|Dur:32nd|Pos:-1|Opts:Stem=Up,Beam
+|Note|Dur:32nd|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:32nd|Pos:-3|Opts:Stem=Up,Beam
+|Note|Dur:32nd|Pos:-2|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-1|Opts:Stem=Up,Beam=End
+|Chord|Dur:8th,Slur|Pos:-9,-4|Opts:Stem=Up
+|Chord|Dur:32nd|Pos:-9,-4|Opts:Stem=Up
+|Note|Dur:32nd|Pos:-3|Opts:Stem=Up,Beam=First
+|Note|Dur:64th|Pos:-4|Opts:Stem=Up,Beam
+|Note|Dur:64th|Pos:-5|Opts:Stem=Up,Beam
+|Note|Dur:32nd|Pos:-4|Opts:Stem=Up,Beam=End
+|Note|Dur:8th|Pos:-3|Opts:Stem=Down
+|Note|Dur:8th|Pos:-5|Opts:Stem=Down
+|Bar
+|Chord|Dur:8th|Pos:-13,-6|Opts:Stem=Up,Beam=First
+|Note|Dur:8th|Pos:-13|Opts:Stem=Up,Beam=End
+|Note|Dur:16th|Pos:-12|Opts:Stem=Up,Beam=First
+|Note|Dur:16th|Pos:-6|Opts:Stem=Up,Beam
+|Chord|Dur:16th|Pos:-12,-7|Opts:Stem=Up,Beam
+|Note|Dur:16th|Pos:-8|Opts:Stem=Up,Beam=End
+|Chord|Dur:16th|Pos:-11,-9|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-5|Opts:Stem=Down,Beam
+|Chord|Dur:16th|Pos:-11,-6|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:-7|Opts:Stem=Down,Beam=End
+|Bar
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Down,Beam=First
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=End
+|Note|Dur:8th|Pos:-6|Opts:Stem=Down,Beam=First
+|Chord|Dur:8th|Pos:-6,-2|Opts:Stem=Down,Beam=End
+|Chord|Dur:16th|Pos:-6,-1|Opts:Stem=Down,Beam=First
+|Note|Dur:16th|Pos:-2|Opts:Stem=Down,Beam
+|Chord|Dur:16th|Pos:-6,-3|Opts:Stem=Down,Beam
+|Note|Dur:16th|Pos:-4|Opts:Stem=Down,Beam=End
+!NoteWorthyComposer-End
